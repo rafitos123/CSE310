@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QRCoder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ef249031f1740a1f188865697eae6643262b8f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("QRCoder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QRCoder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
