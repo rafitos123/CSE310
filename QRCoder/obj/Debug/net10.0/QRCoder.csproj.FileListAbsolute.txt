@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\BYU\cse310\CSE310\QRCoder\bin\Debug\net10.0\QRCoder.exe
+C:\Users\Pichau\Desktop\BYU\cse310\CSE310\QRCoder\bin\Debug\net10.0\QRCoder.deps.json
+C:\Users\Pichau\Desktop\BYU\cse310\CSE310\QRCoder\bin\Debug\net10.0\QRCoder.runtimeconfig.json
+C:\Users\Pichau\Desktop\BYU\cse310\CSE310\QRCoder\bin\Debug\net10.0\QRCoder.dll
+C:\Users\Pichau\Desktop\BYU\cse310\CSE310\QRCoder\bin\Debug\net10.0\QRCoder.pdb
+C:\Users\Pichau\Desktop\BYU\cse310\CSE310\QRCoder\obj\Debug\net10.0\QRCoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\BYU\cse310\CSE310\QRCoder\obj\Debug\net10.0\QRCoder.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\BYU\cse310\CSE310\QRCoder\obj\Debug\net10.0\QRCoder.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\BYU\cse310\CSE310\QRCoder\obj\Debug\net10.0\QRCoder.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\BYU\cse310\CSE310\QRCoder\obj\Debug\net10.0\QRCoder.dll
+C:\Users\Pichau\Desktop\BYU\cse310\CSE310\QRCoder\obj\Debug\net10.0\refint\QRCoder.dll
+C:\Users\Pichau\Desktop\BYU\cse310\CSE310\QRCoder\obj\Debug\net10.0\QRCoder.pdb
+C:\Users\Pichau\Desktop\BYU\cse310\CSE310\QRCoder\obj\Debug\net10.0\QRCoder.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\BYU\cse310\CSE310\QRCoder\obj\Debug\net10.0\ref\QRCoder.dll
